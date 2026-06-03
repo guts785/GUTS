@@ -1,0 +1,43 @@
+# WeasyPrint/translation temp artifacts
+*.tmp.html
+*_Arabic.pdf
+*_Arabic_Arabic.pdf
+Arabic*.pdf
+
+# Duplicates/derived variants
+*_Arabic.pdf
+Acres_Of_Diamonds_Arabic.pdf
+James_Allen_Arabic.pdf
+Lao_Tzu_Arabic.pdf
+Letters_from_a_Stoic_Arabic.pdf
+Machiavelli_Mindset_Arabic.pdf
+Mans_Search_for_Meaning.pdf.bak
+The_Pilgrim_full_Arabic.pdf
+The_Way_to_Wealth_Arabic.pdf
+The_most_forbidden.pdf
+The_way_of_a_pilgrim_full.pdf
+Three_Books_of_Occult_Philosophy_Arabic.pdf
+acres_Arabic.pdf
+mans_search_Arabic.pdf
+occult_Arabic.pdf
+pilgrim_Arabic.pdf
+prince_Arabic.pdf
+seneca_Arabic.pdf
+the_prince_Arabic.pdf
+way_to_wealth_Arabic.pdf
+
+# Source z-library duplicates
+* (z-library.sk, 1lib.sk, z-lib.sk)_Arabic.pdf
+
+# Python/translation cache
+__pycache__/
+translations/
+assets/books_ar_combined/
+assets/books_ar_raw/
+
+# Large media files (not needed for site)
+assets/music/
+assets/music.webm
+assets/audio/
+*.mp3
+*.webm
